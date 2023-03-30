@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.af09d303.css",
-    "main.js": "/static/js/main.85df552d.js",
+    "main.css": "/static/css/main.9244dc34.css",
+    "main.js": "/static/js/main.c4f0e3fb.js",
     "static/js/148.222ce90c.chunk.js": "/static/js/148.222ce90c.chunk.js",
     "static/js/888.8b6f3d31.chunk.js": "/static/js/888.8b6f3d31.chunk.js",
     "static/js/624.3c6f8446.chunk.js": "/static/js/624.3c6f8446.chunk.js",
@@ -36,14 +36,13 @@
     "static/js/419.4dfb65f0.chunk.js": "/static/js/419.4dfb65f0.chunk.js",
     "static/js/318.e578c640.chunk.js": "/static/js/318.e578c640.chunk.js",
     "static/js/252.78c71ad1.chunk.js": "/static/js/252.78c71ad1.chunk.js",
-    "static/media/imageBackground.png": "/static/media/imageBackground.a8db01492efa19001924.png",
     "static/media/ANYSWAP.png": "/static/media/ANYSWAP.48fd0e50cacebcdfc1bf.png",
     "static/media/USDC.png": "/static/media/USDC.e7d1d0511b476d502d10.png",
     "static/media/SUSHI.png": "/static/media/SUSHI.3b4c4ef46bdc37c36304.png",
     "static/media/ETH.png": "/static/media/ETH.1d262aaab849d8c9b0bd.png",
     "index.html": "/index.html",
-    "main.af09d303.css.map": "/static/css/main.af09d303.css.map",
-    "main.85df552d.js.map": "/static/js/main.85df552d.js.map",
+    "main.9244dc34.css.map": "/static/css/main.9244dc34.css.map",
+    "main.c4f0e3fb.js.map": "/static/js/main.c4f0e3fb.js.map",
     "148.222ce90c.chunk.js.map": "/static/js/148.222ce90c.chunk.js.map",
     "888.8b6f3d31.chunk.js.map": "/static/js/888.8b6f3d31.chunk.js.map",
     "624.3c6f8446.chunk.js.map": "/static/js/624.3c6f8446.chunk.js.map",
@@ -77,7 +76,7 @@
     "252.78c71ad1.chunk.js.map": "/static/js/252.78c71ad1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af09d303.css",
-    "static/js/main.85df552d.js"
+    "static/css/main.9244dc34.css",
+    "static/js/main.c4f0e3fb.js"
   ]
 }
