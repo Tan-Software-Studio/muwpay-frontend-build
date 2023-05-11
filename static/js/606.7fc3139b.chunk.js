@@ -1,0 +1,1 @@
+(globalThis.webpackChunkmuwpay_react=globalThis.webpackChunkmuwpay_react||[]).push([[606],{12769:()=>{},24654:()=>{}}]);

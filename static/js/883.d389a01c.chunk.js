@@ -1,1 +1,0 @@
-(self.webpackChunkmuwpay_react=self.webpackChunkmuwpay_react||[]).push([[883],{35883:function(){}}]);

@@ -1,0 +1,1 @@
+(globalThis.webpackChunkmuwpay_react=globalThis.webpackChunkmuwpay_react||[]).push([[883],{35883:()=>{}}]);
